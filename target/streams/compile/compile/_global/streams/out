@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: /Users/ibrahimaberete/Downloads/Pokedex 3/src/main/scala/com/pokemon/services/AOEPokemonService.scala:35:6 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m35 |[0m[33mclass[0m [35mAOEPokemonAsyncServiceOnHttp[0m([36mhttp[0m: [35mAsyncHttp[0m) [33mextends[0m [35mAOEPokemonAsyncService[0m {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m      ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mclass AOEPokemonAsyncServiceOnHttp needs to be abstract, since def getPokemon(): monix.eval.Task[Seq[com.pokemon.models.AOEPokemonItem]] in [33mtrait[0m [35mAOEPokemonAsyncService[0m in [33mpackage[0m [35mcom.pokemon.services[0m is not defined [0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

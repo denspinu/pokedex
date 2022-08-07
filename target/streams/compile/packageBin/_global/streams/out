@@ -1,0 +1,63 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/pokedex_3-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/Pokedex$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/Pokedex$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/models[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/models[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/models/AOEPokemon.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/models/AOEPokemon.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/models/AOEPokemonItem$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/models/AOEPokemonItem$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/models/AOEPokemon.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/models/AOEPokemon.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/models/AOEPokemonItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/models/AOEPokemonItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/models/AOEPokemon$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/models/AOEPokemon$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/models/AOEPokemonItem.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/models/AOEPokemonItem.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/AsyncHttp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/AsyncHttp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/Pokedex.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/Pokedex.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/Http.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/Http.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/json[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/json[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/json/JsonFormatters$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/json/JsonFormatters$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/json/JsonFormatters.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/json/JsonFormatters.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/json/JsonFormatters.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/json/JsonFormatters.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/json/JsonFormatters$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/json/JsonFormatters$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/services[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/services[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/services/AOEPokemonService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/services/AOEPokemonService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/services/AOEPokemonService.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/services/AOEPokemonService.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/services/AOEPokemonAsyncService.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/services/AOEPokemonAsyncService.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/services/AOEPokemonServiceOnHttp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/services/AOEPokemonServiceOnHttp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/services/AOEPokemonAsyncServiceOnHttp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/services/AOEPokemonAsyncServiceOnHttp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/services/AOEPokemonAsyncServiceOnHttp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/services/AOEPokemonAsyncServiceOnHttp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/services/AOEPokemonServiceOnHttp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/services/AOEPokemonServiceOnHttp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/services/AOEPokemonAsyncService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/services/AOEPokemonAsyncService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/Pokedex.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/Pokedex.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/AsyncHttp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/AsyncHttp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/pokemon/Http.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes/com/pokemon/Http.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

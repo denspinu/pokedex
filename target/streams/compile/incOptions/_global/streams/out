@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonAsyncServiceOnHttp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonServiceOnHttp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonAsyncService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonAsyncServiceOnHttp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonServiceOnHttp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonService.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonAsyncService.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonAsyncServiceOnHttp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonServiceOnHttp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonAsyncService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonAsyncServiceOnHttp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonServiceOnHttp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonService.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonAsyncService.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonAsyncService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonServiceOnHttp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonAsyncServiceOnHttp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonAsyncService.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonServiceOnHttp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonService.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AOEPokemonAsyncServiceOnHttp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/ibrahimaberete/Downloads/Pokedex 3/target/scala-3.1.3/classes.bak[0m
